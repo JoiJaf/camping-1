@@ -1,0 +1,36 @@
+
+/* Custom properties */
+
+
+
+
+:root{
+    /* font family */
+    --ff-main: 'Archivo', sans-serif;
+    --ff-second: 'Roboto', sans-serif;
+    /* font size */
+    --fs-xl: 5rem;
+    --fs-lg: 2.5rem;
+    --fs-md: 1.125rem;
+    --fs-nm: 1rem;
+    --fs-sm:0.875;
+    /* font wight */
+    --fw-bk: 900;   
+    --fw-md: 500;
+    --fw-rg: 400;
+}
+
+/* h1{
+    font-family: 'Archivo', sans-serif;
+} */
+
+
+/* Fuentes --------------------------------------- */
+/* roboto regular 18 */
+/* archivo 80 */
+/* roboto medium 18 */
+/* roboto regular 16 */
+/* archivo black 18  */
+/* archivo 40 */
+/* roboto medium 16 */
+/* roboto regular 14 */
